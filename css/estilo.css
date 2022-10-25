@@ -1,5 +1,10 @@
-
-
+#caixa {
+    width: 300px;
+    height: 300px;
+    padding: 8px;
+    margin: 20px;
+    background: #009670;
+}
 
 /*#caixa {
     width: 300px;
