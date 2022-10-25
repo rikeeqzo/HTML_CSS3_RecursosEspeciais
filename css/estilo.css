@@ -1,4 +1,4 @@
-#caixa {
+/*#caixa {
     width: 300px;
     height: 300px;
     padding: 8px;
@@ -9,9 +9,9 @@
 
 #caixa h1 {
     color: white;
-    /*text-shadow: 20px 20px black;*/
+    /*text-shadow: 20px 20px black;/
     text-shadow: 20px 20px 5px  rgba(0, 0, 0, 0.6);
-}
+}*/
 
 /*#caixa {
     width: 300px;
@@ -49,3 +49,8 @@
     border-radius: 20px 900px;-->
 }
 */
+
+
+
+/*Animações */
+
