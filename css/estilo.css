@@ -53,7 +53,7 @@
 
 
 /*Animações */
-@keyframes animacao-caixa {
+@-webkit-keyframes animacao-caixa {
     from {/*Estado inicial*/
         background: red;
     }
@@ -62,6 +62,32 @@
     }
 }
 
+@-moz-keyframes animacao-caixa {
+    from {/*Estado inicial*/
+        background: red;
+    }
+    to {/*Estado final*/
+        background: green;
+    }
+}
+
+@-o-keyframes animacao-caixa {
+    from {/*Estado inicial*/
+        background: red;
+    }
+    to {/*Estado final*/
+        background: green;
+    }
+}
+
+@keyframes animacao-caixa {
+    from {/*Estado inicial*/
+        background: red;
+    }
+    to {/*Estado final*/
+        background: green;
+    }
+}
 
 #caixa {
     width: 300px;
